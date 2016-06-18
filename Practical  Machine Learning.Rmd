@@ -3,7 +3,9 @@
 
 These are the files produced during a homework assignment of Coursera's MOOC Practical Machine Learning from Johns Hopkins University. For more information about the several MOOCs comprised in this Specialization, please visit: https://www.coursera.org/specialization/jhudatascience/
 
-Developer: Diogo Aurelio
+Developer: Aman Dubey
+
+
 
 
 
